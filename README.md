@@ -1,4 +1,12 @@
-### Hi there 👋
+### About me 🤔
+
+Hi, I am Viacheslav — a front-end engineer. I’m currently working at [OneTwoTrip](https://www.onetwotrip.com).
+
+## 📫 How to reach me:
+
++ Personal site: https://viaermakov.com
++ Telegram: https://t.me/nathaniel.maeus
++ My thoughts: https://viaermakov.com/articles
 
 <!--
 **nathanielmaeus/nathanielmaeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
