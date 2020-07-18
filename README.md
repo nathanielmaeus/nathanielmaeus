@@ -1,8 +1,8 @@
-### About me 🤔
+## About me 🤔
 
 Hi, I am Viacheslav — a front-end engineer. I’m currently working at [OneTwoTrip](https://www.onetwotrip.com). The most popular online service for booking cheap flights. 
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 + Personal site: https://viaermakov.com
 + Telegram: https://t.me/nathaniel.maeus
