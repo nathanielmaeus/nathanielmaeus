@@ -1,6 +1,6 @@
 ## About me 🤔
 
-Hi, I am Viacheslav — a front-end engineer. I’m currently working at [OneTwoTrip](https://www.onetwotrip.com). The most popular online service for booking cheap flights. 
+Hi, I am Viacheslav — a front-end engineer. I’m currently working at [OneTwoTrip](https://www.onetwotrip.com). The most popular online service for booking cheap travel tickets. 
 
 ### 📫 How to reach me:
 
